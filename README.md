@@ -1,8 +1,10 @@
 # ImagePuzzle
 <p align="left">
-  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/a647a4bc-7a92-46ce-8f89-2542361b163b" alt="image_description" width="270" height="600" />
-  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/d778797e-386b-47fc-af77-df2f1d20a1cf" alt="image_description" width="270" height="600" />
-  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/ee646973-29d5-41d9-aa76-620b61ba8386" alt="image_description" width="270" height="600" />
-  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/9ac63831-3b40-4f77-bb26-46ab2f892fc1" alt="image_description" width="270" height="600" />
-  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/26a5c7c7-b308-46e5-8fe5-5819c5738f12" alt="image_description" width="270" height="600" />
+  <img style="margin-left: 20px;" src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/9476fbd6-887a-49d9-a5fc-398275301f89" alt="image_description" width="270" height="600"/>
+  <img style="margin-left: 20px;" src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/c7ec3a6c-e844-4a39-bcf6-69d76eeaa8f4" alt="image_description" width="270" height="600" />
+  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/8b54805e-fcdf-42b0-9f56-319189005716" alt="image_description" width="270" height="600" />
+  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/c5ebf762-7e01-40fb-a890-e951f85fc79c" alt="image_description" width="270" height="600" />
+  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/2a4a8083-56f6-4571-8f0a-c1d1f684a9e0" alt="image_description" width="270" height="600" />
+  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/84e6d37e-c5cd-4e79-ab19-8ff4345ff7fb" alt="image_description" width="270" height="600" />
+  <img src="https://github.com/Muntasir89/ImagePuzzle/assets/78687005/be16f832-48e2-405d-9ae3-9941d3817750" alt="image_description" width="270" height="600" />
 </p>
